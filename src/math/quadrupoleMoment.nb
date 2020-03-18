@@ -1,0 +1,70 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1765,         62]
+NotebookOptionsPosition[      1379,         48]
+NotebookOutlinePosition[      1717,         63]
+CellTagsIndexPosition[      1674,         60]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[TextData[{
+ Cell[BoxData[
+  FormBox[
+   SuperscriptBox["", "135"], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "b9cc9f33-46cf-4463-9669-b452a5c3b283"],
+ "Pr transition quadrupole moments"
+}], "Chapter",
+ CellChangeTimes->{{3.7935074258019333`*^9, 
+  3.793507460056374*^9}},ExpressionUUID->"97ebd6e0-a06d-4093-a859-\
+4248d4ff6b91"],
+
+Cell[TextData[{
+ "Calculation of the ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"{", 
+    RowBox[{
+     SubscriptBox["Q", "0"], ",", 
+     SubscriptBox["Q", "2"]}]}], TraditionalForm]],
+  FormatType->"TraditionalForm",ExpressionUUID->
+  "0217be13-ce15-4510-9d2a-2089a017a9d2"],
+ "} components of the quadrupole moment"
+}], "Chapter",
+ CellChangeTimes->{{3.793507462627*^9, 
+  3.793507499286275*^9}},ExpressionUUID->"bf3fa4a1-1418-4cc2-99ee-\
+e3107906ac03"]
+},
+WindowSize->{808, 911},
+WindowMargins->{{Automatic, 300}, {77, Automatic}},
+FrontEndVersion->"12.0 for Mac OS X x86 (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 361, 10, 69, "Chapter",ExpressionUUID->"97ebd6e0-a06d-4093-a859-4248d4ff6b91"],
+Cell[922, 32, 453, 14, 106, "Chapter",ExpressionUUID->"bf3fa4a1-1418-4cc2-99ee-e3107906ac03"]
+}
+]
+*)
+
